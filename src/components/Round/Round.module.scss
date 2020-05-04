@@ -1,0 +1,92 @@
+.Round {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+
+  &__title {
+    margin-bottom: 48px;
+    font-family: 'VT323', monospace;
+    font-size: 50px;
+    font-weight: normal;
+    text-align: center;
+    color: rgba(0,0,0,0.8);
+  }
+
+  &__text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'VT323', monospace;
+    font-size: 30px;
+  }
+
+  &__info {
+    display: flex;
+    margin-top: 50px;
+  }
+
+  &__card {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    border: 1px solid #002D72;
+    border-radius: 6px;
+
+    &:not(:last-child) {
+      margin-right: 20px;
+    }
+  }
+
+  &__image {
+    height: 200px;
+    width: 300px;
+    object-fit: contain;
+  }
+
+  &__message {
+    font-size: 15px;
+    text-align: center;
+    word-wrap: break-word;
+    width: 200px;
+  }
+
+  &__button {
+    align-self: flex-end;
+    margin-top: 20px;
+    margin-right: 22%;
+    padding: 10px 10px;
+    font-size: 15px;
+    border: none;
+    background-color: #3AA757;
+    color: #fff;
+    cursor: pointer;
+  }
+}
+
+.Profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 36px;
+  text-align: center;
+
+  &__icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 60px;
+    margin-bottom: 12px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 50px;
+    background-color: #01843D;
+
+    & i {
+      font-size: 24px;
+      color: #fff;
+    }
+  }
+}
