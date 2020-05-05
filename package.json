@@ -2,7 +2,7 @@
   "name": "mlint",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/cmuvis/mlint",
+  "homepage": "http://dig.cmu.edu/eyeintoai",
   "dependencies": {
     "classnames": "^2.2.6",
     "dom-to-image": "^2.6.0",
