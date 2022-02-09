@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eyeintoai/static/css/main.cf0864a5.css",
-    "main.js": "/eyeintoai/static/js/main.fa9eec8a.js",
+    "main.js": "/eyeintoai/static/js/main.96529029.js",
     "static/media/eye-into-ai.gif": "/eyeintoai/static/media/eye-into-ai.d89bd2036a1ce59853df.gif",
     "static/media/step3.png": "/eyeintoai/static/media/step3.a7a01299443359402ef7.png",
     "static/media/fa-solid-900.svg": "/eyeintoai/static/media/fa-solid-900.cd7df21ebb1a5f7e146f.svg",
@@ -582,19 +582,16 @@
     "static/media/frog.jpg": "/eyeintoai/static/media/frog.aca10d660d224267190c.jpg",
     "static/media/car.jpg": "/eyeintoai/static/media/car.cb176fc9ed2754f3a8ca.jpg",
     "static/media/camera.jpg": "/eyeintoai/static/media/camera.f72f79d7bbde7999abd1.jpg",
-    "static/media/orange.jpg": "/eyeintoai/static/media/orange.b0376a58bae2f86f404f.jpg",
-    "static/media/drum.jpg": "/eyeintoai/static/media/drum.463b500c5876d3efe0b2.jpg",
     "static/media/parrot.jpg": "/eyeintoai/static/media/parrot.1730606885c36b9e880f.jpg",
     "static/media/acousticGuitar.jpg": "/eyeintoai/static/media/acousticGuitar.577388ec131ab984f364.jpg",
-    "static/media/cat.jpg": "/eyeintoai/static/media/cat.3e97de8ed23302b9b2b4.jpg",
     "static/media/fig.jpg": "/eyeintoai/static/media/fig.4586a4931bf5e5beec60.jpg",
     "static/media/strawberry.jpg": "/eyeintoai/static/media/strawberry.d8cc09a808c7fa914ff8.jpg",
     "index.html": "/eyeintoai/index.html",
     "main.cf0864a5.css.map": "/eyeintoai/static/css/main.cf0864a5.css.map",
-    "main.fa9eec8a.js.map": "/eyeintoai/static/js/main.fa9eec8a.js.map"
+    "main.96529029.js.map": "/eyeintoai/static/js/main.96529029.js.map"
   },
   "entrypoints": [
     "static/css/main.cf0864a5.css",
-    "static/js/main.fa9eec8a.js"
+    "static/js/main.96529029.js"
   ]
 }
