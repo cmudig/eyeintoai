@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eyeintoai/static/css/main.cf0864a5.css",
-    "main.js": "/eyeintoai/static/js/main.8b39ec24.js",
+    "main.js": "/eyeintoai/static/js/main.94f40551.js",
     "static/media/eye-into-ai.gif": "/eyeintoai/static/media/eye-into-ai.d89bd2036a1ce59853df.gif",
     "static/media/step3.png": "/eyeintoai/static/media/step3.a7a01299443359402ef7.png",
     "static/media/fa-solid-900.svg": "/eyeintoai/static/media/fa-solid-900.cd7df21ebb1a5f7e146f.svg",
@@ -582,16 +582,17 @@
     "static/media/frog.jpg": "/eyeintoai/static/media/frog.aca10d660d224267190c.jpg",
     "static/media/car.jpg": "/eyeintoai/static/media/car.cb176fc9ed2754f3a8ca.jpg",
     "static/media/camera.jpg": "/eyeintoai/static/media/camera.f72f79d7bbde7999abd1.jpg",
+    "static/media/orange.jpg": "/eyeintoai/static/media/orange.b0376a58bae2f86f404f.jpg",
     "static/media/parrot.jpg": "/eyeintoai/static/media/parrot.1730606885c36b9e880f.jpg",
     "static/media/acousticGuitar.jpg": "/eyeintoai/static/media/acousticGuitar.577388ec131ab984f364.jpg",
     "static/media/fig.jpg": "/eyeintoai/static/media/fig.4586a4931bf5e5beec60.jpg",
     "static/media/strawberry.jpg": "/eyeintoai/static/media/strawberry.d8cc09a808c7fa914ff8.jpg",
     "index.html": "/eyeintoai/index.html",
     "main.cf0864a5.css.map": "/eyeintoai/static/css/main.cf0864a5.css.map",
-    "main.8b39ec24.js.map": "/eyeintoai/static/js/main.8b39ec24.js.map"
+    "main.94f40551.js.map": "/eyeintoai/static/js/main.94f40551.js.map"
   },
   "entrypoints": [
     "static/css/main.cf0864a5.css",
-    "static/js/main.8b39ec24.js"
+    "static/js/main.94f40551.js"
   ]
 }
