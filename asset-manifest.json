@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eyeintoai/static/css/main.cf0864a5.css",
-    "main.js": "/eyeintoai/static/js/main.05dfd9c5.js",
+    "main.js": "/eyeintoai/static/js/main.8ba718b0.js",
     "static/media/eye-into-ai.gif": "/eyeintoai/static/media/eye-into-ai.d89bd2036a1ce59853df.gif",
     "static/media/step3.png": "/eyeintoai/static/media/step3.a7a01299443359402ef7.png",
     "static/media/fa-solid-900.svg": "/eyeintoai/static/media/fa-solid-900.cd7df21ebb1a5f7e146f.svg",
@@ -50,6 +50,9 @@
     "static/media/497.png": "/eyeintoai/static/media/497.eff1adb7f01752b715bc.png",
     "static/media/489.png": "/eyeintoai/static/media/489.695729d26d8a9961d9a8.png",
     "static/media/431.png": "/eyeintoai/static/media/431.01f511eb1af0c8bf508b.png",
+    "static/media/433.png": "/eyeintoai/static/media/433.01f511eb1af0c8bf508b.png",
+    "static/media/475.png": "/eyeintoai/static/media/475.01f511eb1af0c8bf508b.png",
+    "static/media/504.png": "/eyeintoai/static/media/504.01f511eb1af0c8bf508b.png",
     "static/media/518.png": "/eyeintoai/static/media/518.44c94eaf82add9618106.png",
     "static/media/419.png": "/eyeintoai/static/media/419.787a7e7a83f025f40fdc.png",
     "static/media/430.png": "/eyeintoai/static/media/430.34260f877a55471a122e.png",
@@ -99,7 +102,6 @@
     "static/media/318.png": "/eyeintoai/static/media/318.c24d20b012e77d8fd9c9.png",
     "static/media/422.png": "/eyeintoai/static/media/422.75229b4f8288ce266214.png",
     "static/media/377.png": "/eyeintoai/static/media/377.550666819ba4f063f532.png",
-    "static/media/504.png": "/eyeintoai/static/media/504.ecc8220c696b5f64d2c0.png",
     "static/media/284.png": "/eyeintoai/static/media/284.828540f836591458681b.png",
     "static/media/335.png": "/eyeintoai/static/media/335.a0968448eb9093377976.png",
     "static/media/211.png": "/eyeintoai/static/media/211.6a55366a8646512a540e.png",
@@ -343,7 +345,6 @@
     "static/media/437.png": "/eyeintoai/static/media/437.fb2610fda169527e7da9.png",
     "static/media/275.png": "/eyeintoai/static/media/275.fa076bbb2b3468e7d234.png",
     "static/media/303.png": "/eyeintoai/static/media/303.3fe7e6788cd889650f0d.png",
-    "static/media/475.png": "/eyeintoai/static/media/475.1b2e7ad004d4b345898e.png",
     "static/media/63.png": "/eyeintoai/static/media/63.6789c38b5193709e64e9.png",
     "static/media/206.png": "/eyeintoai/static/media/206.877c55d43ce88c906e05.png",
     "static/media/49.png": "/eyeintoai/static/media/49.bed9e3f3c25198d026bb.png",
@@ -566,7 +567,6 @@
     "static/media/36.png": "/eyeintoai/static/media/36.85759b058454dd131c3a.png",
     "static/media/bottom_2.png": "/eyeintoai/static/media/bottom_2.3c7c6db7e2b105d375e7.png",
     "static/media/27.png": "/eyeintoai/static/media/27.4295bcb96dd414c015d5.png",
-    "static/media/433.png": "/eyeintoai/static/media/433.ff271ccba303c4b1199e.png",
     "static/media/kingSnake.jpg": "/eyeintoai/static/media/kingSnake.61793724f27fe458f2b0.jpg",
     "static/media/broccoli.jpg": "/eyeintoai/static/media/broccoli.af2d18b878a54b37c186.jpg",
     "static/media/pomegranate.jpg": "/eyeintoai/static/media/pomegranate.9743ff71015f67b331e3.jpg",
@@ -601,10 +601,10 @@
     "static/media/strawberry.jpg": "/eyeintoai/static/media/strawberry.d8cc09a808c7fa914ff8.jpg",
     "index.html": "/eyeintoai/index.html",
     "main.cf0864a5.css.map": "/eyeintoai/static/css/main.cf0864a5.css.map",
-    "main.05dfd9c5.js.map": "/eyeintoai/static/js/main.05dfd9c5.js.map"
+    "main.8ba718b0.js.map": "/eyeintoai/static/js/main.8ba718b0.js.map"
   },
   "entrypoints": [
     "static/css/main.cf0864a5.css",
-    "static/js/main.05dfd9c5.js"
+    "static/js/main.8ba718b0.js"
   ]
 }
