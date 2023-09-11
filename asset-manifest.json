@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eyeintoai/static/css/main.cf0864a5.css",
-    "main.js": "/eyeintoai/static/js/main.029a799d.js",
+    "main.js": "/eyeintoai/static/js/main.67cfcbe6.js",
     "static/media/eye-into-ai.gif": "/eyeintoai/static/media/eye-into-ai.d89bd2036a1ce59853df.gif",
     "static/media/step3.png": "/eyeintoai/static/media/step3.a7a01299443359402ef7.png",
     "static/media/fa-solid-900.svg": "/eyeintoai/static/media/fa-solid-900.cd7df21ebb1a5f7e146f.svg",
@@ -601,10 +601,10 @@
     "static/media/strawberry.jpg": "/eyeintoai/static/media/strawberry.d8cc09a808c7fa914ff8.jpg",
     "index.html": "/eyeintoai/index.html",
     "main.cf0864a5.css.map": "/eyeintoai/static/css/main.cf0864a5.css.map",
-    "main.029a799d.js.map": "/eyeintoai/static/js/main.029a799d.js.map"
+    "main.67cfcbe6.js.map": "/eyeintoai/static/js/main.67cfcbe6.js.map"
   },
   "entrypoints": [
     "static/css/main.cf0864a5.css",
-    "static/js/main.029a799d.js"
+    "static/js/main.67cfcbe6.js"
   ]
 }
